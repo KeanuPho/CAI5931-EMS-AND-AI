@@ -1,7 +1,7 @@
 ## Authors
-Keanu Pho  
-Matt Sulack  
-Bradley Johnston  
+Keanu Pho <br>
+Matt Sulack <br>
+Bradley Johnston <br>
 
 # AI-Driven EMS Call Volume Prediction
 CAI 4930/5931 | Group Project | University of West Florida
